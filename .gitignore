@@ -1,12 +1,4 @@
-/*.userdb/
 *.bin
 /.idea/
-/luna_pinyin.schema.yaml
 /wubi86.userdb/
 /luna_pinyin.userdb/
-/wubi86.userdb/*.log
-/wubi86.userdb/CURRENT
-/wubi86.userdb/LOCK
-/wubi86.userdb/LOG
-/wubi86.userdb/LOG.old
-/wubi86.userdb/MANIFEST-001625
