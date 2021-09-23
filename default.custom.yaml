@@ -1,6 +1,6 @@
 patch: 
   schema_list:
     - schema: wubi86
-    - schema: luna_pinyin
+    - schema: pinyin_simp
   menu:
     page_size: 10
