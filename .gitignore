@@ -1,0 +1,6 @@
+/*.userdb/
+*.bin
+/.idea/
+/luna_pinyin.schema.yaml
+/wubi86.userdb/
+/luna_pinyin.userdb/
