@@ -1,0 +1,67 @@
+# Rime user dictionary
+#@/db_name	luna_pinyin.userdb
+#@/db_type	userdb
+#@/rime_version	1.2.9
+#@/tick	84
+#@/user_id	6fb74692-276c-4097-9e9d-f7b2baee0dd4
+bao mi 	保密	c=1 d=0.782705 t=84
+bei jing 	北京	c=1 d=0.771052 t=84
+bing 	併	c=1 d=0.701173 t=84
+bu 	部	c=1 d=0.985112 t=84
+bu yi zhi 	不一致	c=1 d=0.802519 t=84
+cai wu 	財務	c=1 d=0.88692 t=84
+da yin 	打印	c=1 d=0.860708 t=84
+de 	的	c=5 d=4.15986 t=84
+di fang 	地方	c=1 d=0.810584 t=84
+ding dan 	訂單	c=2 d=1.64565 t=84
+fa huo 	發貨	c=2 d=1.45649 t=84
+fu gong 	復工	c=1 d=0.941765 t=84
+gai zhang 	蓋章	c=1 d=0.865022 t=84
+gei 	給	c=1 d=0.873716 t=84
+gen 	跟	c=5 d=3.90218 t=84
+gen jin 	跟進	c=1 d=1 t=84
+gong si 	公司	c=1 d=0.822835 t=84
+hai you 	還有	c=1 d=0.839457 t=84
+hang 	航	c=1 d=0.774916 t=84
+he 	和	c=3 d=2.21566 t=84
+he tong 	合同	c=2 d=1.77667 t=84
+hou 	后	c=1 d=0.852144 t=84
+hou qi 	後期	c=1 d=0.704688 t=84
+hua bao 	華寶	c=1 d=0.726149 t=84
+hui fu 	回覆	c=1 d=0.927743 t=84
+ji chu 	寄出	c=1 d=0.869358 t=84
+jin qi 	近期	c=1 d=0.895834 t=84
+jiu 	就	c=1 d=1 t=84
+kai gong 	開工	c=1 d=0.694197 t=84
+ke hu 	客戶	c=3 d=2.65415 t=84
+ku cun 	庫存	c=1 d=0.759572 t=84
+li 	麗	c=1 d=0.923116 t=84
+liu 	劉	c=1 d=0.918512 t=84
+lu 	路	c=1 d=0.687289 t=84
+lv shi 	律師	c=1 d=0.818731 t=84
+ming ri 	明日	c=1 d=0.965605 t=84
+ni hao 	你好	c=1 d=0.677057 t=84
+ning 	寧	c=1 d=0.83527 t=84
+que ding 	確定	c=1 d=0.763379 t=84
+que ren 	確認	c=4 d=3.06295 t=84
+ren zheng 	認證	c=1 d=0.970446 t=84
+ri 	日	c=1 d=0.680451 t=84
+ri qi 	日期	c=3 d=2.39617 t=84
+sao miao ji 	掃描機	c=1 d=0.909373 t=84
+shi jian 	時間	c=1 d=0.718924 t=84
+shu liang 	數量	c=1 d=0.71177 t=84
+shu xu guan 	鼠鬚管	c=2 d=1.97025 t=84
+shuang fang 	雙方	c=1 d=0.798516 t=84
+si 	思	c=1 d=0.831104 t=84
+ti gong 	提供	c=1 d=0.891366 t=84
+tiao kuan 	條款	c=2 d=1.78558 t=84
+wei 	微	c=1 d=0.955997 t=84
+wen dang 	文檔	c=1 d=0.97531 t=84
+wen ti 	問題	c=1 d=0.951229 t=84
+wu bi 	五筆	c=2 d=1.98012 t=84
+xie 	謝	c=1 d=0.826959 t=84
+xie zhu 	協助	c=1 d=0.882497 t=84
+xin 	信	c=1 d=0.960789 t=84
+xin 	新	c=1 d=0.733447 t=84
+xiu gai 	修改	c=1 d=0.980199 t=84
+yi jing 	已經	c=1 d=0.856415 t=84
