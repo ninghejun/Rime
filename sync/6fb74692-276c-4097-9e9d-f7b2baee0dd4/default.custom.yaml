@@ -4,3 +4,6 @@ patch:
     - schema: pinyin_simp
   menu:
     page_size: 10
+  switcher:
+    hotkeys:
+      - "Control+F12"

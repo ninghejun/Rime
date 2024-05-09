@@ -1,16 +1,16 @@
 __build_info:
-  rime_version: 1.7.3
+  rime_version: 1.8.4
   timestamps:
-    default: 1613228859
-    default.custom: 1715183400
-    key_bindings: 1613228859
+    default: 1675085450
+    default.custom: 1667287789
+    key_bindings: 1675085450
     key_bindings.custom: 0
-    punctuation: 1613228859
+    punctuation: 1675085450
     punctuation.custom: 0
-    symbols: 1703685500
+    symbols: 1651922394
     symbols.custom: 0
     wubi86.custom: 0
-    wubi86.schema: 1715183408
+    wubi86.schema: 1651922394
 engine:
   processors:
     - ascii_composer
@@ -282,12 +282,12 @@ schema:
   author:
     - "發明人 王永民先生"
   dependencies:
-    - luna_pinyin_simp
+    - pinyin_simp
   description: |
     五筆字型86版
     碼表源自 ibus-table
     敲 z 鍵進入拼音反查
-    
+
   name: "五笔86"
   schema_id: wubi86
   version: 0.21

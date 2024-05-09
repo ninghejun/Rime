@@ -1,14 +1,14 @@
 __build_info:
-  rime_version: 1.7.3
+  rime_version: 1.8.4
   timestamps:
-    default: 1613228859
-    default.custom: 1715183400
-    key_bindings: 1613228859
+    default: 1675085450
+    default.custom: 1667287789
+    key_bindings: 1675085450
     key_bindings.custom: 0
-    punctuation: 1613228859
+    punctuation: 1675085450
     punctuation.custom: 0
     stroke.custom: 0
-    stroke.schema: 1632367974
+    stroke.schema: 1651922501
 abc_segmentor:
   extra_tags:
     - reverse_lookup
@@ -67,7 +67,7 @@ key_binder:
     - {accept: "Control+Shift+percent", toggle: extended_charset, when: always}
   import_preset: default
 menu:
-  page_size: 9
+  page_size: 10
 punctuator:
   full_shape:
     " ": {commit: "　"}
@@ -165,7 +165,7 @@ schema:
   description: |
     五筆畫
     h,s,p,n,z 代表橫、豎、撇、捺、折
-    
+
   name: "五筆畫"
   schema_id: stroke
   version: 0.5
